@@ -19,8 +19,7 @@
 - Utilizei o Mysql
 
 ## Como interagir com a API?
-- Utilizamos o [Bruno](https://github.com/usebruno/bruno)
-
+- Utilizamos oinsomnia
 ## :rocket: Tecnologias utilizadas
 
 * Java 22
